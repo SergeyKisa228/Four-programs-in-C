@@ -40,7 +40,7 @@ gcc -o shifdef main.c
 
 # Task Manager
 
-cd ../Task\ Manager
+cd ../Task_Manager
 
 gcc -o taskmanager main.c
 
