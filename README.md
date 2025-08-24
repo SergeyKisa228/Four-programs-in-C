@@ -17,13 +17,17 @@ The repository contains four independent projects:
 1. Clone the repository:
 
 git clone https://github.com/SergeyKisa228/Programs-in-C.git
+
 cd Programs-in-C
 
 2. Select a project to run and compile it:
 
 # ATM_Simulator
+
 cd ATM_Simulator
+
 gcc -o atm main.c
+
 ./atm
 
 # Shif-Def
