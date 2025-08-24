@@ -3,7 +3,7 @@
 A collection of four console applications written in C. Each application demonstrates different aspects of programming,
 from working with files and encryption to emulating a banking system and a file manager.
 
-## Repository Content
+# Repository Content
 
 The repository contains four independent projects:
 
@@ -12,7 +12,7 @@ The repository contains four independent projects:
 - Task Manager - Stateful Task Manager
 - VFC_system - Virtual File system
 
-## Start
+# Start
 
 1. Clone the repository:
 
@@ -22,7 +22,7 @@ cd Programs-in-C
 
 2. Select a project to run and compile it:
 
-# ATM_Simulator
+## ATM_Simulator
 
 cd ATM_Simulator
 
@@ -30,7 +30,7 @@ gcc -o atm main.c
 
 ./atm
 
-# Shif-Def
+## Shif-Def
 
 cd ../Shif-Def
 
@@ -38,7 +38,7 @@ gcc -o shifdef main.c
 
 ./shifdef
 
-# Task Manager
+## Task Manager
 
 cd ../Task_Manager
 
@@ -46,7 +46,7 @@ gcc -o taskmanager main.c
 
 ./taskmanager
 
-# VFC_system
+## VFC_system
 
 cd ../VFC_system
 
@@ -54,7 +54,7 @@ gcc -o vfc main.c
 
 ./vfc
 
-## Description of projects
+# Description of projects
 
 ## 1. ATM_Simulator
 
@@ -90,10 +90,10 @@ Features:
 
 Using it via the command line:
 
-# Encryption
+### Encryption
 ./shifdef -e mysecretkey file.txt
 
-# Decryption
+### Decryption
 ./shifdef -d mysecretkey file.txt.enc
 
 ## 3. Task Manager
@@ -130,7 +130,7 @@ Features:
 
 --- Saving the state in the vfs_save.bin file
 
-## Requirements and compatibility
+# Requirements and compatibility
 
 --- C compiler (GCC, Clang, or similar)
 
@@ -138,11 +138,11 @@ Features:
 
 --- Compatible with Windows, Linux, and macOS
 
-## Implementation features
+# Implementation features
 
 All programs use only the standard C library and do not require additional dependencies. 
 The code is written with a focus on portability and clarity. Each project is self-contained and can be studied separately.
 
-## Author
+# Author
 
 SergeyKisa228 - development of all projects
