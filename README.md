@@ -130,7 +130,7 @@ Features:
 
 --- Saving the state in the vfs_save.bin file
 
-# Requirements and compatibility
+# Requirements & Compatibility
 
 --- C compiler (GCC, Clang, or similar)
 
