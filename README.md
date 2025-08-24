@@ -22,7 +22,7 @@ cd Programs-in-C
 
 2. Select a project to run and compile it:
 
-## ATM_Simulator
+## 1. ATM_Simulator
 
 cd ATM_Simulator
 
@@ -30,7 +30,7 @@ gcc -o atm main.c
 
 ./atm
 
-## Shif-Def
+## 2. Shif-Def
 
 cd ../Shif-Def
 
@@ -38,7 +38,7 @@ gcc -o shifdef main.c
 
 ./shifdef
 
-## Task Manager
+## 3. Task Manager
 
 cd ../Task_Manager
 
@@ -46,7 +46,7 @@ gcc -o taskmanager main.c
 
 ./taskmanager
 
-## VFC_system
+## 4. VFC_system
 
 cd ../VFC_system
 
