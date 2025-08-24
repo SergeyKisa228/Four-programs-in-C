@@ -31,18 +31,27 @@ gcc -o atm main.c
 ./atm
 
 # Shif-Def
+
 cd ../Shif-Def
+
 gcc -o shifdef main.c
+
 ./shifdef
 
 # Task Manager
+
 cd ../Task\ Manager
+
 gcc -o taskmanager main.c
+
 ./taskmanager
 
 # VFC_system
+
 cd ../VFC_system
+
 gcc -o vfc main.c
+
 ./vfc
 
 ## Description of projects
