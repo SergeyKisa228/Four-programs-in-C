@@ -38,7 +38,7 @@ gcc -o shifdef main.c
 
 ./shifdef
 
-## 3. Task Manager
+## 3. Task_Manager
 
 cd ../Task_Manager
 
@@ -96,7 +96,7 @@ Using it via the command line:
 ### Decryption
 ./shifdef -d mysecretkey file.txt.enc
 
-## 3. Task Manager
+## 3. Task_Manager
 
 Console task manager that saves the state to a file.
 
