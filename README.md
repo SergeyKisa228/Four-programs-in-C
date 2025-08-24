@@ -56,7 +56,7 @@ gcc -o vfc main.c
 
 ## Description of projects
 
-1. ATM_Simulator
+## 1. ATM_Simulator
 
 Implementation of an ATM system with user authentication and balance operations.
 
@@ -72,7 +72,7 @@ Features:
 
 --- Data is stored in text files (user_pass.txt, [username]_balance.txt, [username]_history.txt)
 
-2. Shif-Def
+## 2. Shif-Def
 
 A utility for encrypting and decrypting files using XOR encryption.
 
@@ -96,7 +96,7 @@ Using it via the command line:
 # Decryption
 ./shifdef -d mysecretkey file.txt.enc
 
-3. Task Manager
+## 3. Task Manager
 
 Console task manager that saves the state to a file.
 
@@ -112,7 +112,7 @@ Features:
 
 --- Data is saved in the tasks.dat file
 
-4. VFC_system
+## 4. VFC_system
 
 A virtual file system that supports files and directories.
 
