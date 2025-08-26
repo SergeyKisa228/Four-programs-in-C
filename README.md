@@ -7,10 +7,10 @@ from working with files and encryption to emulating a banking system and a file 
 
 The repository contains four independent projects:
 
-- ATM_Simulator - Simulating ATM operation
-- Shif-Def - File Encryption/Decryption Software 
-- Task Manager - Stateful Task Manager
-- VFC_system - Virtual File system
+- **ATM_Simulator** - Simulating ATM operation
+- **Shif-Def** - File Encryption/Decryption Software 
+- **Task Manager** - Stateful Task Manager
+- **VFC_system** - Virtual File system
 
 # Start
 
@@ -145,4 +145,4 @@ The code is written with a focus on portability and clarity. Each project is sel
 
 # Author
 
-SergeyKisa228 - development of all projects
+**SergeyKisa228** - development of all projects
