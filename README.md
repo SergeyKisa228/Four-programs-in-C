@@ -1,4 +1,4 @@
-# Programs-in-C
+# Four-programs-in-C
 
 A collection of four console applications written in C. Each application demonstrates different aspects of programming,
 from working with files and encryption to emulating a banking system and a file manager.
